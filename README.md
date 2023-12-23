@@ -1,1 +1,0 @@
-# Fast_food_format
